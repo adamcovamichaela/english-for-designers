@@ -3,4 +3,4 @@ i like to put my efforts into deeper meaning projects. not just business, but he
 
 ~
 
-I feel much closeness to nature, love spending some quality time getting to know some lovely places. I love to be creative and love having the opportunity to fully manage my own workdays. I love the most to grab the beautiful neverendless opportunities which this world comes with. I would love to do and learn many things, but I am trying my best doing as much as I possibly can for now.
+i feel much closeness to nature, love spending some quality time getting to know some lovely places. i love to be creative and love having the opportunity to fully manage my own workdays. i love the most to grab the beautiful neverendless opportunities which this world comes with. i would love to do and learn many things, but I am trying my best doing as much as I possibly can for now.
