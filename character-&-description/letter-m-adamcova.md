@@ -7,5 +7,4 @@
 
 ---
 
-##### *Words are made up of letters. Language is made up of all those words. Success is made up of all the smallest steps.*
-##### *And life. Life is made up of each and every day spent.*
+##### *Life is made up of each and every day spent, exactly as our language we communicate with. Every day matters.*
