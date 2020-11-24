@@ -18,5 +18,5 @@ University of Creative Communication
 ###### LANGUAGE SKILLS
 czech |||||
 english |||
-deutch ||
+german ||
 spanish ||
