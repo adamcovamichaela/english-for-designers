@@ -13,7 +13,7 @@ Wedding Photographer
 ###### 2017/Present
 Graphic Designer – freelancing
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
-- Adobe - Photoshop, Illustrator, Indesign, Lightroom
+- Adobe - Photoshop, Illustrator, Indesign, XD, Lightroom
 
 ### ~ Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
