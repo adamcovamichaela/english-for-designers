@@ -1,5 +1,5 @@
 ## About 
-i like to put my efforts into deeper meaning projects. not just business, but helping others, helping the world to be a better place.
+*i like to put my efforts into deeper meaning projects. not just business, but helping others, helping the world to be a better place.*
 
 ~
 
