@@ -18,7 +18,7 @@ Graphic Designer – freelancing
 - logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
 - online and offline campaigns for international brand of fitness centres – FITINN
 
-#### ~ Another Work Experience
+#### ~ Another Important Work Experience
 
 ###### 2019
 Graphic Designer in Slovakia | Effectix.com Agency
