@@ -1,4 +1,5 @@
 ## Michaela Adamcová
+#### Graphic Designer and Wedding Photographer
 ###### www.limshae.com | info@limshae.com
 
 ----
@@ -13,13 +14,15 @@
 
 ###### 2019
 *Graphic Designer in Slovakia* | *Effectix.com Agency*
+- working on an interesting brands like Decathlon, Penta
 
 ###### 2017/2018
 *Graphic Designer in Denmark*
 
 #### ~ Education
-University of Creative Communication
-~ Bachelor Degree
+###### 2018/2021
+University of Creative Communication (UCC)
+- Bachelor Degree
 
 #### ~ Language Skills
 Czech / English / German / Spanish
