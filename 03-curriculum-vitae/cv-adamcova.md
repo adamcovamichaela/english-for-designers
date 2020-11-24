@@ -33,8 +33,8 @@
 
 ### ~ Secondary Education
 ###### 2018 – 2021
-University of Creative Communication (UCC)
+##### University of Creative Communication (UCC)
 - Bachelor Degree
 
 ### ~ Language Skills
-Czech (native) | English (communicative) | German (beginner) | Spanish (learning)
+##### Czech (native) | English (communicative) | German (beginner) | Spanish (learning)
