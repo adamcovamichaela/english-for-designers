@@ -1,4 +1,4 @@
-Michaela Adamcová
+## Michaela Adamcová
 ###### www.limshae.com | info@limshae.com
 
 ###### EXPERIENCES
