@@ -21,9 +21,9 @@ Graphic Designer in Denmark
 
 #### ~ Few Interesting Projects/Clients while Freelancing
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
+- logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
+- logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
 - online and offline campaigns for international brand of fitness centres – FITINN
-- logo and print materials for a brand new bakery
-- logo and print materials for a nice restaurant Hejtmanka
 
 #### ~ Education
 ###### 2018/2021
