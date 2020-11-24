@@ -12,7 +12,7 @@
 *Graphic Designer – freelancing*
 
 ###### 2019
-*Graphic Designer in Slovakia*
+*Graphic Designer in Slovakia* | *Effectix.com Agency*
 
 ###### 2017/2018
 *Graphic Designer in Denmark*
