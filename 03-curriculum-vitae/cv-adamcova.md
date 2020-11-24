@@ -19,7 +19,7 @@ Graphic Designer in Slovakia | Effectix.com Agency
 ###### 2017/2018
 Graphic Designer in Denmark
 
-#### ~ Few Interesting Projects/Clients while Freelancing
+#### ~ Just Few Interesting Projects/Clients I worked on
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
 - logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
 - logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
@@ -31,4 +31,4 @@ University of Creative Communication (UCC)
 - Bachelor Degree
 
 #### ~ Language Skills
-Czech / English / German / Spanish
+Czech (native) / English (communicative) / German (beginner) / Spanish (learning)
