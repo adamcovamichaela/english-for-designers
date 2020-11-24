@@ -22,11 +22,4 @@ University of Creative Communication
 ~ Bachelor Degree
 
 #### ~ Language Skills
-###### |||||
-czech
-###### |||
-english 
-###### ||
-german
-###### ||
-spanish
+czech / english / german / spanish
