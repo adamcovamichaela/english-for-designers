@@ -22,11 +22,11 @@ Graphic Designer – freelancing
 
 ###### 2019
 Graphic Designer in Slovakia | Effectix.com Agency
-- working on an interesting brands like Decathlon
+- working on an interesting brands like Decathlon & marketing campaings
 
 ###### 2017/2018
 Graphic Designer in Denmark
-- webdesign work, print, ad materials
+- webdesign &  print
 
 #### ~ Education
 ###### 2018/2021
