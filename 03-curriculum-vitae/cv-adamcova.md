@@ -3,25 +3,25 @@
 
 ----
 
-###### EXPERIENCES
+#### ~ Work Experience
 
-2018 – now
-| *Wedding Photographer*
+###### 2018/present
+*Wedding Photographer*
 
-9/2017 – now
-| *Graphic Designer – freelancing*
+###### 2017/present
+*Graphic Designer – freelancing*
 
-2019
-| *Graphic Designer in Slovakia*
+###### 2019
+*Graphic Designer in Slovakia* | *Effectix.com Agency*
 
-2017 – 2018
-| *Graphic Designer in Denmark*
+###### 2017/2018
+*Graphic Designer in Denmark*
 
-###### STUDIES
+#### ~ Education
 University of Creative Communication
 ~ Bachelor Degree
 
-###### LANGUAGE SKILLS
+#### ~ Language Skills
 czech |||||
 english |||
 german ||
