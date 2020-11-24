@@ -13,6 +13,7 @@ Wedding Photographer
 ###### 2017/Present
 Graphic Designer – freelancing
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
+- Adobe - Photoshop, Illustrator, Indesign, Lightroom
 
 ### ~ Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
@@ -30,7 +31,7 @@ Graphic Designer in Slovakia | Effectix.com Agency
 Graphic Designer in Denmark
 - webdesign &  print
 
-### ~ Education
+### ~ Secondary Education
 ###### 2018/2021
 University of Creative Communication (UCC)
 - Bachelor Degree
