@@ -1,6 +1,8 @@
 ## Michaela Adamcová
 ###### www.limshae.com | info@limshae.com
 
+----
+
 ###### EXPERIENCES
 
 2018 – now
