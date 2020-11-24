@@ -4,7 +4,7 @@
 
 ----
 
-#### ~ Work Experience
+#### ~ Current Work
 
 ###### 2018/Present
 Wedding Photographer
@@ -12,18 +12,20 @@ Wedding Photographer
 ###### 2017/Present
 Graphic Designer – freelancing
 
+#### ~ Just Few Interesting Projects/Clients I worked on
+- logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
+- logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
+- logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
+- online and offline campaigns for international brand of fitness centres – FITINN
+
+#### ~ Another Work Experience
+
 ###### 2019
 Graphic Designer in Slovakia | Effectix.com Agency
 - working on an interesting brands like Decathlon, Pentaa
 
 ###### 2017/2018
 Graphic Designer in Denmark
-
-#### ~ Just Few Interesting Projects/Clients I worked on
-- logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
-- logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
-- logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
-- online and offline campaigns for international brand of fitness centres – FITINN
 
 #### ~ Education
 ###### 2018/2021
