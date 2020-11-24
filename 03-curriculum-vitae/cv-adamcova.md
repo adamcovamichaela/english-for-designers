@@ -4,7 +4,7 @@
 
 ----
 
-#### ~ Current Work
+### ~ Current Work
 
 ###### 2018/Present
 Wedding Photographer
@@ -14,13 +14,13 @@ Wedding Photographer
 Graphic Designer – freelancing
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
 
-#### ~ Few Interesting Projects/Clients
+### ~ Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
 - logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
 - logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
 - online and offline campaigns for international brand of fitness centres – FITINN
 
-#### ~ Another Important Work Experience
+### ~ Another Important Work Experience
 
 ###### 2019
 Graphic Designer in Slovakia | Effectix.com Agency
@@ -30,10 +30,10 @@ Graphic Designer in Slovakia | Effectix.com Agency
 Graphic Designer in Denmark
 - webdesign &  print
 
-#### ~ Education
+### ~ Education
 ###### 2018/2021
 University of Creative Communication (UCC)
 - Bachelor Degree
 
-#### ~ Language Skills
+### ~ Language Skills
 Czech (native) | English (communicative) | German (beginner) | Spanish (learning)
