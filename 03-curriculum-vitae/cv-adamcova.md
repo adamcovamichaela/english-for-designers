@@ -33,4 +33,4 @@ University of Creative Communication (UCC)
 - Bachelor Degree
 
 #### ~ Language Skills
-Czech (native) / English (communicative) / German (beginner) / Spanish (learning)
+Czech (native) | English (communicative) | German (beginner) | Spanish (learning)
