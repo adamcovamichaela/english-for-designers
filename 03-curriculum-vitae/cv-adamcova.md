@@ -1,6 +1,6 @@
 ## Michaela Adamcová
 #### Graphic Designer and Wedding Photographer
-###### Feel free to contact me | www.limshae.com | info@limshae.com
+###### Feel free to contact me | www.limshae.com | info@limshae.com | @limshae
 
 ----
 
