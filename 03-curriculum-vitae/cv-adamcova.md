@@ -12,7 +12,7 @@ Wedding Photographer
 ###### 2017/Present
 Graphic Designer – freelancing
 
-#### ~ Just Few Interesting Projects/Clients I worked on
+#### ~ Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
 - logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
 - logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
