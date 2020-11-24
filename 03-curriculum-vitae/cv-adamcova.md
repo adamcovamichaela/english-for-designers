@@ -8,7 +8,7 @@
 
 ###### 2018/Present
 Wedding Photographer
-- I am a Wedding Photographer, but also I work as a Photographer for my clients (more below), so I offer both Graphic Design and Photography work.
+- I am a Wedding Photographer, but I also work as a Photographer for my clients (more below), so I offer both Graphic Design and Photography service.
 
 ###### 2017/Present
 Graphic Designer – freelancing
