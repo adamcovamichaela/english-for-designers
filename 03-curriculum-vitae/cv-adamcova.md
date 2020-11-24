@@ -7,17 +7,17 @@
 #### ~ Work Experience
 
 ###### 2018/Present
-*Wedding Photographer*
+Wedding Photographer
 
 ###### 2017/Present
-*Graphic Designer – freelancing*
+Graphic Designer – freelancing
 
 ###### 2019
-*Graphic Designer in Slovakia* | *Effectix.com Agency*
+Graphic Designer in Slovakia* | *Effectix.com Agency
 - working on an interesting brands like Decathlon, Pentaa
 
 ###### 2017/2018
-*Graphic Designer in Denmark*
+Graphic Designer in Denmark
 
 #### ~ Few Interesting Projects/Clients while Freelancing
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
