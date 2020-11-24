@@ -13,7 +13,7 @@ Wedding Photographer
 Graphic Designer – freelancing
 
 ###### 2019
-Graphic Designer in Slovakia* | *Effectix.com Agency
+Graphic Designer in Slovakia | Effectix.com Agency
 - working on an interesting brands like Decathlon, Pentaa
 
 ###### 2017/2018
