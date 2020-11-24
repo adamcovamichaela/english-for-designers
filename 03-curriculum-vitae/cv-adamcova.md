@@ -22,7 +22,7 @@ Graphic Designer – freelancing
 
 ###### 2019
 Graphic Designer in Slovakia | Effectix.com Agency
-- working on an interesting brands like Decathlon, Pentaa
+- working on an interesting brands like Decathlon
 
 ###### 2017/2018
 Graphic Designer in Denmark
