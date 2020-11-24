@@ -6,7 +6,7 @@
 
 ### ~ Current Work
 
-###### 2018 – Present
+###### 2019 – Present
 Wedding Photographer
 - I am a Wedding Photographer, but I also work as a Photographer for my clients, so I offer both Graphic Design and Photography service.
 
