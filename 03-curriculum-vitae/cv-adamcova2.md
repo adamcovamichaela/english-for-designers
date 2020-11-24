@@ -3,12 +3,12 @@
 
 ----
 
-#### ~ EXPERIENCES
+#### ~ Work Experience
 
-###### 2018/NOW
+###### 2018/present
 *Wedding Photographer*
 
-###### 2017/NOW
+###### 2017/present
 *Graphic Designer – freelancing*
 
 ###### 2019
@@ -17,11 +17,11 @@
 ###### 2017/2018
 *Graphic Designer in Denmark*
 
-#### ~ STUDIES
+#### ~ Education
 University of Creative Communication
 ~ Bachelor Degree
 
-#### ~ LANGUAGE SKILLS
+#### ~ Language Skills
 czech |||||
 english |||
 german ||
