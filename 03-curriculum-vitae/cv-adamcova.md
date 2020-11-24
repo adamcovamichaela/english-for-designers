@@ -26,6 +26,7 @@ Graphic Designer in Slovakia | Effectix.com Agency
 
 ###### 2017/2018
 Graphic Designer in Denmark
+- webdesign work, print, ad materials
 
 #### ~ Education
 ###### 2018/2021
