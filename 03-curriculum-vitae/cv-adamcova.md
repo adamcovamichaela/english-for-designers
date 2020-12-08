@@ -13,7 +13,7 @@ i feel much closeness to nature, love spending some quality time getting to know
 ### ~ Freelance Work (to present)
 
 ###### 2019 – Present
-##### Wedding Photographer
+##### `Wedding Photographer`
 - I am a Wedding Photographer, but I also work as a Photographer for my clients, so I offer both Graphic Design and Photography service.
 
 ###### 2017 – Present
