@@ -10,14 +10,14 @@ i feel much closeness to nature, love spending some quality time getting to know
 
 ----
 
-### ~ Freelance Work
+### ~ Freelance Work (to present)
 
 ###### 2019 – Present
 ##### Wedding Photographer
 - I am a Wedding Photographer, but I also work as a Photographer for my clients, so I offer both Graphic Design and Photography service.
 
 ###### 2017 – Present
-##### Graphic Designer – freelancing
+##### Graphic Designer
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
 - Adobe Creative Cloud - Photoshop, Illustrator, Lightroom, Indesign, XD, Premiere Rush
 
