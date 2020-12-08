@@ -4,9 +4,9 @@
 
 ![Alt text description of example.](img/fig-6-1.png)
 
-Figure 6-1 caption.
+## Stealing other's work?
 
-##### The article I've read is so much full of interesting facts. I've never really copied some work. Yes, I make some moodboards for my work inspiration, but I always thought copying is just bad. Stealing others ideas. Only thing I learned to do recently is to make some colour palettes directly from pictures I like. As there was written – just eyedropping the colors and use them for my purpose. 
+###### The article I've read is so much full of interesting facts. I've never really copied some work. Yes, I make some moodboards for my work inspiration, but I always thought copying is just bad. Stealing others ideas. Only thing I learned to do recently is to make some colour palettes directly from pictures I like. As there was written – just eyedropping the colors and use them for my purpose. 
 
 #### And another thing about copying. I think, that there is not almost anything, that does not exist. 
 
