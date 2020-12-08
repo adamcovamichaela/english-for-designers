@@ -4,6 +4,7 @@
 - [Experience](03-curriculum-vitae/cv-adamcova.md)
 
 ## Work
+- [Copying](04-voice-tone/cv-adamcova.md)
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](character-&-description/letter-m-adamcova.md)
 
