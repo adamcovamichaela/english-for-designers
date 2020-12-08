@@ -19,7 +19,7 @@ i feel much closeness to nature, love spending some quality time getting to know
 ###### 2017 – Present
 ##### Graphic Designer – freelancing
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
-- Adobe - Photoshop, Illustrator, Indesign, XD, Lightroom
+- Adobe Creative Cloud - Photoshop, Illustrator, Lightroom, Indesign, XD, Premiere Rush
 
 ### ~ Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
