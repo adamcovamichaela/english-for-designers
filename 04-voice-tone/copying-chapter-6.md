@@ -6,7 +6,7 @@
 
 ## Stealing other's work?
 
-###### The article I've read is so much full of interesting facts. I've never really copied some work. Yes, I make some moodboards for my work inspiration, but I always thought copying is just bad. Stealing others ideas. Only thing I learned to do recently is to make some colour palettes directly from pictures I like. As there was written – just eyedropping the colors and use them for my purpose. 
+##### The article I've read is so much full of interesting facts. I've never really copied some work. Yes, I make some moodboards for my work inspiration, but I always thought copying is just bad. Stealing others ideas. Only thing I learned to do recently is to make some colour palettes directly from pictures I like. As there was written – just eyedropping the colors and use them for my purpose. 
 
 #### And another thing about copying. I think, that there is not almost anything, that does not exist. 
 
@@ -14,11 +14,7 @@
 
 #### The truth is: What two people do is never the same. 
 
-##### And because there is not almost anything, that does not exist already, and because if two people do the same, it is not the same, then we can maybe have a good reason to not be scared of copying anymore. We can get inspired and maybe even try to do the same thing, but it won't be the same, because we will make it in our own style.
-
-![Alt text description of example.](img/fig-6-2.png)
-
-Figure 6-2 caption.
+###### And because there is not almost anything, that does not exist already, and because if two people do the same, it is not the same, then we can maybe have a good reason to not be scared of copying anymore. We can get inspired and maybe even try to do the same thing, but it won't be the same, because we will make it in our own style.
 
 …
 
