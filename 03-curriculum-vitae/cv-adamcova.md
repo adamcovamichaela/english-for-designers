@@ -17,7 +17,7 @@ i feel much closeness to nature, love spending some quality time getting to know
 - I am a Wedding Photographer, but I also work as a Photographer for my clients, so I offer both Graphic Design and Photography service.
 
 ###### 2017 – Present
-##### Graphic Designer
+##### `Graphic Designer`
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
 - Adobe Creative Cloud - Photoshop, Illustrator, Lightroom, Indesign, XD, Premiere Rush
 
@@ -30,11 +30,11 @@ i feel much closeness to nature, love spending some quality time getting to know
 ### ~ Another Important Work Experience
 
 ###### 2019
-##### Graphic Designer in Slovakia | Effectix.com Agency
+##### `Graphic Designer in Slovakia | Effectix.com Agency`
 - working on an interesting brands like Decathlon & marketing campaings
 
 ###### 2017 – 2018
-##### Graphic Designer in Denmark
+##### `Graphic Designer in Denmark`
 - webdesign &  print
 
 ### ~ Secondary Education
