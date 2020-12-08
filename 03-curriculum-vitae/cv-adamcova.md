@@ -14,7 +14,7 @@ i feel much closeness to nature, love spending some quality time getting to know
 
 ###### 2019 – Present
 ##### `Photographer`
-- I offer both Graphic Design and Photography service. I am a Wedding Photographer & Product Photographer.
+- I offer both Graphic Design and Photography service to my clients. I am a Wedding Photographer & Product Photographer.
 
 ###### 2017 – Present
 ##### `Graphic Designer`
