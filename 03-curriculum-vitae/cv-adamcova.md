@@ -21,7 +21,7 @@ i feel much closeness to nature, love spending some quality time getting to know
 - I like to work as a Freelance, I can manage my time easily and take proper care of my clients.
 - Adobe Creative Cloud - Photoshop, Illustrator, Lightroom, Indesign, XD, Premiere Rush
 
-##### Few Interesting Projects/Clients
+  ##### Few Interesting Projects/Clients
 - logo manual & visual communication & photography work for project of Czech Chamber of Pharmacists
 - logo & all visual materials & photography work for a brand new bakery with wonderful sweeties
 - logo & print materials for a brand new restaurant Hejtmanka with sous vide prepared meals
