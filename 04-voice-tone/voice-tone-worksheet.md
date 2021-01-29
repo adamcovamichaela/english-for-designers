@@ -1,6 +1,7 @@
 ## Writing Style
 
-I hope it is right to talk about my writing style. I've read that article about copying or stealing and I was inspired of what I could write about. 
+I am not sure if we are supposed to write about our own writing style. So I hope that we are. 
+I've read that article about copying or stealing and I was inspired of what I could write about. 
 
 ## Voice
 
