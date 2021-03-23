@@ -1,6 +1,6 @@
 <!-- Add an *optional* hero image to provide visual context. -->
 
-![Write good Alt Text to describe images.](./img/thesis-abstract-hero.jpg)
+![A Mobile App Mock-up Picture with Two Phones which Shows Tracking Screen and Charity Screen.](./img/thesis-abstract-hero.jpg)
 
 # Title
 
