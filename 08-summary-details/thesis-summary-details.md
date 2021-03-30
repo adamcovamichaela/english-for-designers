@@ -9,7 +9,7 @@ The topic of this bachelor´s thesis is the conception and visual identity of gr
 The thesis starts with a customer analysis, the aim was to find out how customers behave while shopping, what obstacles are they going through and what their opinion is about charity in general and about donating money to charities. The analysis came up with some really important facts. People visit supermarkets or hypermarkets more than the small groceries. It happends to them that they are looking for some products for a long time and they feel bothered by that. One of the interesting facts was also the one, that people would like to donate more money, if they have the opportunity of such an app.
 
 ### Result
-The process of making the app was in respect to this analysis and customer's issues and needs. That's why the app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists.
+The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
 
 ### Keywords: 
 Mobile Application, Grocery Shopping, Charity, User Experience, Graphic Design, Visual Identity
