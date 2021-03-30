@@ -13,7 +13,3 @@ The process of making the app was in respect to this analysis and customer's iss
 
 ### Keywords: 
 Mobile Application, Grocery Shopping, Charity, User Experience, Graphic Design, Visual Identity
-
-## Article
-soon
-<!-- Expanded article based on outline. -->
