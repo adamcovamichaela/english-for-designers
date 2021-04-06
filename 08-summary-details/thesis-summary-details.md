@@ -18,9 +18,11 @@ The thesis starts with a customer analysis, the aim was to find out how customer
 
 ## Analysis
 ![Pie Chart.](Graph1.jpg)
+
 The results show that more than two thirds of customers prefer a personal visit to the store, they like to choose the products themselves, even though most of them have the opportunity to use food import services, but they still prefer to shop themselves.
 
 ![Pie Chart.](Graph2.jpg)
+
 One of the important findings is also that respondents choose mainly supermarkets or hypermarkets, so the application should be ready for cooperation with large chains.
 
 ![Pie Chart.](Graph3.jpg)
