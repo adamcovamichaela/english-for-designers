@@ -23,7 +23,11 @@ The results show that more than two thirds of customers prefer a personal visit 
 ![Pie Chart.](Graph2.jpg)
 One of the important findings is also that respondents choose mainly supermarkets or hypermarkets, so the application should be ready for cooperation with large chains.
 
+![Pie Chart.](Graph3.jpg)
 
+More than two thirds of respondents prefer a quick purchase, respondents do not like to stay in stores.
+
+However, every ninth stated that the purchase is complicated by a change in the layout of the shelves, and it happens to everyone, either more often or occasionally, that they cannot find their product. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the desired product, and frequent shelving or a visit to a different chain than usual does not help. Most people would like to buy fast and looking for products for a long time bothers them.
 
 ### Result
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
