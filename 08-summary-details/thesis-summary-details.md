@@ -19,19 +19,17 @@ The thesis starts with a customer analysis, the aim was to find out how customer
 ## Analysis
 ![Pie Chart.](Graph1.jpg)
 
-The results show that more than two thirds of customers prefer a personal visit to the store, they like to choose the products themselves, even though most of them have the opportunity to use food import services, but they still prefer to shop themselves.
+The results show that more than two thirds of customers prefer a personal visit of the store, they like to choose the products themselves, even though most of them have the opportunity to use food delivery services, but they still prefer to shop on their own.
 
 ![Pie Chart.](Graph2.jpg)
 
-One of the important findings is also that respondents choose mainly supermarkets or hypermarkets, so the application should be ready for cooperation with large chains.
+One of the important findings is also that respondents choose mainly supermarkets or hypermarkets, so the application should be ready for cooperation with large shop brands.
 
 ![Pie Chart.](Graph3.jpg)
 
-More than two thirds of respondents prefer a quick purchase, respondents do not like to stay in stores.
+More than two thirds of respondents prefer a quick shopping.
 
-However, every ninth stated that the purchase is complicated by a change in the layout of the shelves, and it happens to everyone, either more often or occasionally, that they cannot find their product. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the desired product, and frequent shelving or a visit to a different chain than usual does not help. Most people would like to buy fast and looking for products for a long time bothers them.
+However, every ninth stated that the shopping is more complicated by a changed position of the shelves, and everyone experiences, that they can not find what they are looking for. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the product. Most people would like to shop fast and looking for products for a long time bothers them.
 
 ### Result
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
-
-![Lowercase "a" made up of all 26 letters of the alphabet.](letter-a-madamcova.png)
