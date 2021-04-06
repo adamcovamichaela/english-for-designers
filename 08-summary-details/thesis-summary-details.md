@@ -9,7 +9,7 @@ The topic of this bachelor thesis is the conception and visual identity of groce
 Mobile Application, Grocery Shopping, Charity, User Experience, Graphic Design, Visual Identity
 
 ## How it all started?
-I know it happends to me quite often, that I need to buy a product and I look for it for a long time, and when this happends, I am walking among the shelves all over again, but I still can not find, what I am looking for. I liked this idea, because it doesn't exist yet, so I thought it would be fine to make a conception of app like this as my bachelor thesis.
+I know it happends to me quite often, that I need to buy a product and I am walking among the shelves all over again, but I still can not find, what I am looking for. I liked this idea, because it doesn't exist yet, so I thought it would be fine to make a conception of app like this as my bachelor thesis.
 
 ![Woman standing in front of a shelf and holding a smartphone.](Shopping.jpg)
 
