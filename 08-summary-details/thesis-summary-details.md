@@ -17,7 +17,11 @@ I know it happends to me quite often, that I need to buy a product and I look fo
 The thesis starts with a customer analysis, the aim was to find out how customers behave while shopping, what obstacles are they going through and what their opinion is about charity in general and about donating money to charities. The analysis came up with some really important facts. People visit supermarkets or hypermarkets more than the small groceries. It happends to them that they are looking for some products for a long time and they feel bothered by that. One of the interesting facts was also the one, that people would like to donate more money, if they have the opportunity of such an app. I was not only designing, but also the concept of collaboration with shops was prepared.
 
 ## Analysis
-![Woman standing in front of a shelf and holding a smartphone.](Graph1.jpg)
+![Pie Chart.](Graph1.jpg)
+The results show that more than two thirds of customers prefer a personal visit to the store, they like to choose the products themselves, even though most of them have the opportunity to use food import services, but they still prefer to shop themselves.
+
+![Pie Chart.](Graph2.jpg)
+One of the important findings is also that respondents choose mainly supermarkets or hypermarkets, so the application should be ready for cooperation with large chains.
 
 
 
