@@ -27,7 +27,7 @@ One of the important findings is also that respondents choose mainly supermarket
 
 More than two thirds of respondents prefer a quick shopping.
 
-However, every ninth stated that the shopping is more complicated by a changed position of the shelves, and everyone experiences, that they can not find what they are looking for. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the product. Most people would like to shop fast and looking for products for a long time bothers them.
+However, every ninth stated that the shopping is more complicated when there is a changed position of the shelves, and everyone experiences, that they can not find what they are looking for. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the product. Most people would like to shop fast and looking for products for a long time bothers them.
 
 ### Result
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
