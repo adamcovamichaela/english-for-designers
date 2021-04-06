@@ -11,8 +11,6 @@ Mobile Application, Grocery Shopping, Charity, User Experience, Graphic Design, 
 ## How it all started?
 I know it happends to me quite often, that I need to buy a product and I am walking among the shelves all over again, but I still can not find, what I am looking for. I liked this idea, because it doesn't exist yet, so I thought it would be fine to make a conception of app like this as my bachelor thesis.
 
-![Woman standing in front of a shelf and holding a smartphone.](Shopping.jpg)
-
 ## Story
 The thesis starts with a customer analysis, the aim was to find out how customers behave while shopping, what obstacles are they going through and what their opinion is about charity in general and about donating money to charities. The analysis came up with some really important facts. People visit supermarkets or hypermarkets more than the small groceries. It happends to them that they are looking for some products for a long time and they feel bothered by that. One of the interesting facts was also the one, that people would like to donate more money, if they have the opportunity of such an app. I was not only designing, but also the concept of collaboration with shops was prepared.
 
