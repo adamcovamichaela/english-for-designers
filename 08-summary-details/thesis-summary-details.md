@@ -31,3 +31,27 @@ However, every ninth stated that the shopping is more complicated when there is 
 
 ### Result
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
+
+### Making List
+![Pie Chart.](track1 kopie.png)
+
+### Making List by Categories
+![Pie Chart.](Kategorie2.png)
+
+### Connecting to the Store
+![Pie Chart.](Připojování v WIFI.png)
+
+### Navigation
+![Pie Chart.](Mapa.png)
+
+### Shopping List
+![Pie Chart.](Nákupní list.png)
+
+### Navigation with Camera
+![Pie Chart.](Kamera.png)
+
+### Donating
+![Pie Chart.](Přispívání.png)
+
+### Stop the Navigation
+![Pie Chart.](Prerušit.png)
