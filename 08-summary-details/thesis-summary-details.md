@@ -32,8 +32,8 @@ More than two thirds of respondents prefer a quick shopping.
 
 However, every ninth stated that the shopping is more complicated when there is a changed position of the shelves, and everyone experiences, that they can not find what they are looking for. Most respondents said they were bothered by such a situation. As a result, it often happens to shoppers that it is difficult to find the product. Most people would like to shop fast and looking for products for a long time bothers them.
 
-## Design
-### First Design
+## Design Process
+### First Designs
 ![Sceens showing searching products for a list.](first-design.png)
 
 ### Final Design
