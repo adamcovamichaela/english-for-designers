@@ -48,7 +48,7 @@ The process of making the app was in respect to this analysis and customer's iss
 ![Screens with Shopping List opened in Navigation Part.](Nákupní list.png)
 
 ### Navigation with Camera and Augmented Reality
-![Screens showing how the navigation with caer and looks like.](Kamera.png)
+![Screens showing how the navigation with camera looks like.](Kamera.png)
 
 ### Donating
 ![Screens showing how donating part looks like.](Přispívání.png)
