@@ -2,8 +2,11 @@
 
 # Grocery Shopping Navigation Application
 
-## Abstract
+## Previous Abstract
 The topic of this bachelor thesis is the conception and visual identity of grocery shopping & charity mobile application. The theoretical part of the thesis includes the theory of existing applications and UX, the concept and my design process. The main aim of the work is to make shopping easier and quicker, but also to make charity more common. The practical part is an analysis of buyer's needs at first, then the designing based on user's needs performed from analysis, and the creation of a functional prototype of the application. 
+
+## New Abstract
+This bachelor thesis deals with a conception of grocery shopping & charity mobile application. At first, it is important to perform an analysis to understand customers' issues and needs. The theoretical part of the thesis includes the research of similar applications and the paper describes the process of creating an app with the importance of User Experience Design and User Interface Design. The practical part is, except for the analysis, a fully designed app interface and clickable prototype, but also the marketing strategy and concept of visual identity. The main aim of the work is to make shopping easier and quicker, but also to make charity more common.
 
 ### Keywords: 
 Mobile Application, Grocery Shopping, Charity, User Experience, Graphic Design, Visual Identity
@@ -33,25 +36,38 @@ However, every ninth stated that the shopping is more complicated when there is 
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
 
 ### Making List
+The user should be able to prepare a shopping ticket from home. But there is also an option, that he is already shopping and can not find something, which he uses the application for. 
 ![Sceens showing searching products for a list.](track1 kopie.png)
 
 ### Making List by Categories
+Another way to make a shopping list is to search by category and then select items. The user can go through categories and get inspired.
 ![Screens showing making list by categories.](Kategorie2.png)
 
 ### Connecting to the Store
+Application automatically connects to Wi-Fi, when the searched product is added.
 ![Screens showing connecting to the store wifi.](Připojování v WIFI.png)
 
 ### Navigation
+The tracking is showed on a map.
 ![Screens showing Navigation with Map.](Mapa.png)
 
-### Shopping List
-![Screens with Shopping List opened in Navigation Part.](Nákupní list.png)
-
 ### Navigation with Camera and Augmented Reality
+User has two options, it is possible to be navigated with a camera and augmented reality showing the right trace.
 ![Screens showing how the navigation with camera looks like.](Kamera.png)
 
-### Donating
-![Screens showing how donating part looks like.](Přispívání.png)
+### Shopping List
+User can enter and edit Shopping list still from the part, where he is already being navigated.
+![Screens with Shopping List opened in Navigation Part.](Nákupní list.png)
 
 ### Stop the Navigation
+The tracking can be stopped with the possibility of a later return, the unfinished tracking will be saved.
 ![Screens showing how it works to stop the navigation.](Prerušit.png)
+
+### Donating
+The application is primarily solving an issue with shopping, but unlike current solutions, it also has an overlap with charitable activities.
+![Screens showing how donating part looks like.](Přispívání.png)
+
+## Interactive Prototype
+The prototype is an interactive show up of an application that I worked on as an important part of my bachelor's thesis, and thanks to that, user testing could also take place. The prototype is available online at the following web address.
+shorturl.at/bAO24
+
