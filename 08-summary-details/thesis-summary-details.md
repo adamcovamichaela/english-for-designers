@@ -77,4 +77,6 @@ The process of making the app was in respect to this analysis and customer's iss
 ## Interactive Prototype
 The prototype is an interactive show up of an application that I worked on as an important part of my bachelor's thesis, and thanks to that, user testing could also take place. The prototype is available online at the following web address.
 shorturl.at/bAO24
-![Sceens showing searching products for a list.](prototyping.png)
+![Prototyping Process.](prototyping.png)
+![Prototyping Process.](prototyping1.png)
+![Prototyping Process.](prototyping2.png)
