@@ -80,7 +80,7 @@ The application is primarily solving an issue with shopping, but unlike current 
 The process of making the app was in respect to this analysis and customer's issues and needs, but also in respect to User Experience and User Interface. The app has two main functions – to navigate and to donate – but also some more minor functions as saving the shopping lists. The result is a completely finished design in light and dark mode, issues situations that can happen were prepared and designed too, and a clickable prototype to try the app out.
 
 The prototype is an interactive show up of an application that I worked on as an important part of my bachelor's thesis, and thanks to that, user testing could also take place. The prototype is available online at the following web address.
-#### [View prototype](https://www.figma.com/…d=8 59%3A33&viewport=-2754%2C-2805%2C0.22385770082473755&scaling=scale-down)
+#### [View prototype](https://www.figma.com/proto/iAvAV3EGdPD6JD0CMClZNV/Foodtrack-App?page-id=0%3A1&node-id=8 59%3A33&viewport=-2754%2C-2805%2C0.22385770082473755&scaling=scale-down)
 
 
 
